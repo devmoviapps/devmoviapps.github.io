@@ -1,0 +1,84 @@
+{
+    "Frcontent": [
+		{
+                "FrName": "France Info",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://www.dailymotion.com/embed/video/x4rdeu6?autoPlay=1",
+					"Fr_player":"3"
+					}
+				]
+        },
+		{
+                "FrName": "La Chaîne parlementaire",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://www.dailymotion.com/embed/video/xkxbzc?autoPlay=1",
+					"Fr_player":"3"
+					}
+				]
+        },
+		{
+                "FrName": "C8",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://www.dailymotion.com/embed/video/x5gv5rr?autoPlay=1",
+					"Fr_player":"3"
+					}
+				]
+        },
+		{
+                "FrName": "L'Equipe",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://www.dailymotion.com/embed/video/x2lefik?autoPlay=1",
+					"Fr_player":"3"
+					}
+				]
+        },
+		{
+                "FrName": "CSTAR",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://www.dailymotion.com/embed/video/x5gv5v0?autoPlay=1",
+					"Fr_player":"3"
+					}
+				]
+        },
+		{
+                "FrName": "RMC Story",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://www.dailymotion.com/embed/video/x13p3qi?autoPlay=1",
+					"Fr_player":"3"
+					}
+				]
+        },
+		{
+                "FrName": "Franceinfo",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://www.dailymotion.com/embed/video/x4rdeu6?autoPlay=1",
+					"Fr_player":"3"
+					}
+				]
+        },
+		{
+                "FrName": "CNEWS",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://www.dailymotion.com/embed/video/x3b68jn?autoPlay=1",
+					"Fr_player":"3"
+					}
+				]
+        }
+  ]
+}

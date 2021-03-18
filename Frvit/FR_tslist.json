@@ -1,0 +1,284 @@
+{
+    "Frcontent": [
+	{
+                "FrName": "France2",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france2live-12471/hls/index.m3u8",
+					"Fr_player":"2"
+					}
+				]
+        },
+		{
+                "FrName": "France3",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france3live-12472/hls/index.m3u8",
+					"Fr_player":"2"
+					}
+				]
+        },
+		{
+                "FrName": "France4",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france4live-43225/hls/index.m3u8",
+					"Fr_player":"2"
+					}
+				]
+        },
+		{
+                "FrName": "France5",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"http://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/france5live-12474/hls/index.m3u8",
+					"Fr_player":"2"
+					}
+				]
+        },
+		{
+                "FrName": "W9",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://raw.githubusercontent.com/sofien4387/token/master/w_neuf",
+					"Fr_player":"1"
+					}
+				]
+        },
+		{
+                "FrName": "TFX",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://tfx-hls-live-ssl.tf1.fr/tfx/1/hls/live_2328.m3u8",
+					"Fr_player":"2"
+					}
+				]
+        },
+		{
+                "FrName": "TF1",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8",
+					"Fr_player":"2"
+					}
+				]
+        },
+		{
+                "FrName": "LCI - La Chaîne",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8",
+					"Fr_player":"2"
+					}
+				]
+        },
+		{
+                "FrName": "TMC",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://tmc-hls-live-ssl.tf1.fr/tmc/1/hls/live_2328.m3u8",
+					"Fr_player":"2"
+					}
+				]
+        },
+		{
+                "FrName": "BFMTV",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://bcovlive-a.akamaihd.net/1992d859ea9c46a4a5108ec10e1385b5/eu-central-1/876450610001/profile_3/chunklist.m3u8",
+					"Fr_player":"2"
+					}
+				]
+        },
+		{
+                "FrName": "NRJ 12",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/nrj12-43229/hls/index.m3u8",
+					"Fr_player":"2"
+					}
+				]
+        },
+		{
+                "FrName": "France Ô",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://hdfauthftv-a.akamaihd.net/esi/TA?format=txt&url=https%3A%2F%2Flivefrancetv.akamaized.net%2Fsimulcast%2FFrance_O%2Fhls%2Findex.m3u8",
+					"Fr_player":"1"
+					}
+				]
+        },
+		{
+                "FrName": "6ter",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://raw.githubusercontent.com/sofien4387/token/master/six_ter",
+					"Fr_player":"1"
+					}
+				]
+        },
+		{
+                "FrName": "TF1",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8",
+					"Fr_player":"2"
+					}
+				]
+        },
+		{
+                "FrName": "Chérie 25",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/cherie25-850448/hls/index.m3u8",
+					"Fr_player":"2"
+					}
+				]
+        },
+		{
+                "FrName": "Gulli",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/gulli-76287/hls/index.m3u8",
+					"Fr_player":"2"
+					}
+				]
+        },
+		{
+                "FrName": "France Info",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://www.dailymotion.com/embed/video/x4rdeu6?autoPlay=1",
+					"Fr_player":"3"
+					}
+				]
+        },
+		{
+                "FrName": "La Chaîne parlementaire",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://www.dailymotion.com/embed/video/xkxbzc?autoPlay=1",
+					"Fr_player":"3"
+					}
+				]
+        },
+		{
+                "FrName": "C8",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://www.dailymotion.com/embed/video/x5gv5rr?autoPlay=1",
+					"Fr_player":"3"
+					}
+				]
+        },
+		{
+                "FrName": "L'Equipe",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://www.dailymotion.com/embed/video/x2lefik?autoPlay=1",
+					"Fr_player":"3"
+					}
+				]
+        },
+		{
+                "FrName": "CSTAR",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://www.dailymotion.com/embed/video/x5gv5v0?autoPlay=1",
+					"Fr_player":"3"
+					}
+				]
+        },
+		{
+                "FrName": "RMC Story",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://www.dailymotion.com/embed/video/x13p3qi?autoPlay=1",
+					"Fr_player":"3"
+					}
+				]
+        },
+		{
+                "FrName": "France 24",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8?fluxustv.m3u8",
+					"Fr_player":"2"
+					}
+				]
+        },
+		{
+                "FrName": "Franceinfo",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://www.dailymotion.com/embed/video/x4rdeu6?autoPlay=1",
+					"Fr_player":"3"
+					}
+				]
+        },
+		{
+                "FrName": "M6",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://raw.githubusercontent.com/sofien4387/token/master/m_six",
+					"Fr_player":"1"
+					}
+				]
+        },
+		{
+                "FrName": "CNEWS",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://www.dailymotion.com/embed/video/x3b68jn?autoPlay=1",
+					"Fr_player":"3"
+					}
+				]
+        },
+		{
+                "FrName": "RMC Découverte",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://cdn.webtv4.cdnfr.orange.fr/hs/HALO3/hls/rmcdecouverte-850466/hls/index.m3u8",
+					"Fr_player":"2"
+					}
+				]
+        },
+		{
+                "FrName": "Arte",
+                "Frekipicerik": [
+					{
+				  	"Fr_type":"m3u8",
+				  	"Fr_url":"https://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8",
+					"Fr_player":"2"
+					}
+				]
+        }
+  ]
+}
